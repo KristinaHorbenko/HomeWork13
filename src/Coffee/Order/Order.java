@@ -4,8 +4,8 @@ public class Order {
     private int number;
     private String name;
 
-    public Order(int mumber, String name) {
-        this.number = mumber;
+    public Order(int number, String name) {
+        this.number = number;
         this.name = name;
     }
 
